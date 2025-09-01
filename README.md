@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://i.ibb.co/TqLGY3xR/IMG-20250809-WA0005-1.png" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi I'm Julie, a junior full-stack developer ! 🙋‍♀️</div>  
   
 
@@ -20,7 +15,7 @@ I have 4 cute cats, and yes you can ask for their photos
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%" align="center">
 
 
 
