@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my [Portfolio](https://github.com/JulieEstevan/portfolio_v2)  
   
 
-- 💼 Freshly out of my studies, I'm currently searching for a job  
+- 💼 Looking for an internship to complete my studies !
   
 
 - 🐈 A little thing about me :
@@ -66,10 +66,7 @@ I have 4 cute cats, and yes you can ask for their photos
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JulieEstevan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
+  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=JulieEstevan&&style=flat-square" align="center" />
 </div>  
